@@ -1,0 +1,25 @@
+domain_type,Domain of Address Type
+Residential,Residential (Housing)
+Commercial,"Commercial (Office, Retail, Restaurant, Banking)"
+Multi,Multi-Use (mixed commercial/residential)
+Open,"Open Space (Forest, vacant, cemeteries)"
+Industrial,Industrial
+Government,"Government/Public Services (Fire/Police, Library, Government offices)"
+Religious,Religious
+Recreation,"Recreation (Ball fields, parks, golf courses, ski area)"
+Educational,"Educational (Schools, Universities)"
+Institutional,"Institutional (Hospitals, group homes, Prisons, etc)"
+Other,Other
+Unknown,Unknown
+RESIDENTIAL,Residential (Housing)
+COMMERCIAL,"Commercial (Office, Retail, Restaurant, Banking)"
+MULTI,Multi-Use (mixed commercial/residential)
+OPEN,"Open Space (Forest, vacant, cemeteries)"
+INDUSTRIAL,Industrial
+GOVERNMENT,"Government/Public Services (Fire/Police, Library, Government offices)"
+RELIGIOUS,Religious
+RECREATION,"Recreation (Ball fields, parks, golf courses, ski area)"
+EDUCATIONAL,"Educational (Schools, Universities)"
+INSTITUTIONAL,"Institutional (Hospitals, group homes, Prisons, etc)"
+OTHER,Other
+UNKNOWN,Unknown

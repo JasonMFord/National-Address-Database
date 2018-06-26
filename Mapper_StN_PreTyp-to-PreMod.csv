@@ -1,0 +1,7 @@
+SourceAttribute,SourceValue,DestinationAttribute,DestinationValue
+StN_PreTyp,,StN_PreMod,FME_NULL_VALUE
+StN_PreTyp,FME_NULL_VALUE,StN_PreMod,FME_NULL_VALUE
+StN_PreTyp,old county,StN_PreMod,Old
+StN_PreTyp,old state highway,StN_PreMod,Old
+StN_PreTyp,old united states highway,StN_PreMod,Old
+StN_PreTyp,old,StN_PreMod,Old

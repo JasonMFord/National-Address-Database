@@ -1,0 +1,21 @@
+Source,Destination
+,Unknown
+FME_NULL_VALUE,Unknown
+linear geocode,Linear Geocode
+linear geocoding,Linear Geocode
+other,Other
+parcel - centroid,Parcel - Centroid
+parcel - centroids,Parcel - Centroid
+parcel - other,Parcel - Other
+parcel centroid,Parcel - Centroid
+parcel other,Parcel - Other
+property access,Property Access
+site,Site
+site placement,Site
+structure - entrance,Structure - Entrance
+structure entrance,Structure - Entrance
+structure - interior,Structure - Interior
+structure interior,Structure - Interior
+structure - rooftop,Structure - Rooftop
+structure rooftop,Structure - Rooftop
+unknown,Unknown

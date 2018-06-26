@@ -1,0 +1,15 @@
+﻿Source,Destination
+,Unknown
+FME_NULL_VALUE,Unknown
+commercial,Commercial
+educational,Educational
+government,Government
+industrial,Industrial
+institutional,Institutional
+multi,Multi
+open,Open
+other,Other
+recreation,Recreation
+religious,Religious
+residential,Residential
+unknown,Unknown

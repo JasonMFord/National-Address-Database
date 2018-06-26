@@ -1,0 +1,24 @@
+SourceAttr,SourceVal,DestAttr,DestVal,,SourceAttr,SourceVal,DestAttr,DestVal,,SourceAttr,SourceVal,DestAttr,DestVal,,SourceAttr,SourceVal,DestAttr,DestVal
+PreDir,eb,PostMod,eastbound,,PreTyp,OLD COUNTY,PreMod,Old,,PreTyp,pvt,PostMod,Private Road,,StN_PosTyp,pvt,StN_PosMod,Private Road
+PreDir,EB,PostMod,eastbound,,PreTyp,OLD STATE HIGHWAY,PreMod,Old,,PreTyp,Pvt,PostMod,Private Road,,StN_PosTyp,Pvt,StN_PosMod,Private Road
+PreDir,EASTBOUND,PostMod,eastbound,,PreTyp,OLD UNITED STATES HIGHWAY,PreMod,Old,,PreTyp,PVT,PostMod,Private Road,,StN_PosTyp,PVT,StN_PosMod,Private Road
+PreDir,nb,PostMod,northbound,,PreTyp,OLD,PreMod,Old,,PreTyp,private,PostMod,Private Road,,StN_PosTyp,private,StN_PosMod,Private Road
+PreDir,NB,PostMod,northbound,,,,,,,PreTyp,Private,PostMod,Private Road,,StN_PosTyp,Private,StN_PosMod,Private Road
+PreDir,NORTHBOUND,PostMod,northbound,,,,,,,PreTyp,PRIVATE,PostMod,Private Road,,StN_PosTyp,PRIVATE,StN_PosMod,Private Road
+PreDir,sb,PostMod,southbound,,,,,,,PreTyp,private road,PostMod,Private Road,,StN_PosTyp,private road,StN_PosMod,Private Road
+PreDir,SB,PostMod,southbound,,,,,,,PreTyp,Private Road,PostMod,Private Road,,StN_PosTyp,Private Road,StN_PosMod,Private Road
+PreDir,SOUTHBOUND,PostMod,southbound,,,,,,,PreTyp,PRIVATE ROAD,PostMod,Private Road,,StN_PosTyp,PRIVATE ROAD,StN_PosMod,Private Road
+PreDir,wb,PostMod,westbound,,,,,,,PreTyp,bus,PostMod,Business,,StN_PosTyp,bus,StN_PosMod,Business
+PreDir,WB,PostMod,westbound,,,,,,,PreTyp,Bus,PostMod,Business,,StN_PosTyp,Bus,StN_PosMod,Business
+PreDir,WESTBOUND,PostMod,westbound,,,,,,,PreTyp,BUS,PostMod,Business,,StN_PosTyp,BUS,StN_PosMod,Business
+,,,,,,,,,,PreTyp,business,PostMod,Business,,StN_PosTyp,business,StN_PosMod,Business
+,,,,,,,,,,PreTyp,Business,PostMod,Business,,StN_PosTyp,Business,StN_PosMod,Business
+,,,,,,,,,,PreTyp,BUSINESS,PostMod,Business,,StN_PosTyp,BUSINESS,StN_PosMod,Business
+,,,,,,,,,,,,,,,StN_PosTyp,ACCESS ROAD,StN_PosMod,Access Road
+,,,,,,,,,,,,,,,StN_PosTyp,AVENUE EXTENSION,StN_PosMod,Extension
+,,,,,,,,,,,,,,,StN_PosTyp,BOULEVARD EXTENSION,StN_PosMod,Extension
+,,,,,,,,,,,,,,,StN_PosTyp,DRIVE EXTENSION,StN_PosMod,Extension
+,,,,,,,,,,,,,,,StN_PosTyp,ROAD EXTENSION,StN_PosMod,Extension
+,,,,,,,,,,,,,,,StN_PosTyp,ST EXTENSION,StN_PosMod,Extension
+,,,,,,,,,,,,,,,StN_PosTyp,FRONTAGE,StN_PosMod,Frontage Road
+,,,,,,,,,,,,,,,StN_PosTyp,FRONTAGE ROAD,StN_PosMod,Frontage Road

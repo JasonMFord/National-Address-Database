@@ -1,0 +1,8 @@
+SourceAttribute,SourceValue,DestinationAttribute,DestinationValue,
+StN_PreTyp,,StN_PosMod,FME_NULL_VALUE,
+StN_PreTyp,FME_NULL_VALUE,StN_PosMod,FME_NULL_VALUE,
+StN_PreTyp,pvt,StN_PosMod,Private Road,pvt
+StN_PreTyp,private,StN_PosMod,Private Road,private
+StN_PreTyp,private road,StN_PosMod,Private Road,private road
+StN_PreTyp,bus,StN_PosMod,Business,bus
+StN_PreTyp,business,StN_PosMod,Business,business

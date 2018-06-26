@@ -1,0 +1,21 @@
+domain_placement,Domain of Address Placement
+Structure - Rooftop,Structure - Rooftop
+Structure - Entrance,Structure - Entrance
+Structure - Interior,Structure - Interior Unit Location
+Parcel - Centroid,Parcel - Centroid
+Parcel - Other,Parcel - Other/Manual Placement
+Linear Geocode,Linear Geocode
+Property Access,Property Access Point
+Site,Site Placement
+Other,Other
+Unknown,Unknown
+STRUCTURE - ROOFTOP,Structure - Rooftop
+STRUCTURE - ENTRANCE,Structure - Entrance
+STRUCTURE - INTERIOR,Structure - Interior Unit Location
+PARCEL - CENTROID,Parcel - Centroid
+PARCEL - OTHER,Parcel - Other/Manual Placement
+LINEAR GEOCODE,Linear Geocode
+PROPERTY ACCESS,Property Access Point
+SITE,Site Placement
+OTHER,Other
+UNKNOWN,Unknown

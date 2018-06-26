@@ -1,0 +1,16 @@
+SourceAttribute,SourceValue,DestinationAttribute,DestinationValue
+StN_PosTyp,,StN_PosMod,FME_NULL_VALUE
+StN_PosTyp,FME_NULL_VALUE,StN_PosMod,FME_NULL_VALUE
+StN_PosTyp,pvt,StN_PosMod,Private Road
+StN_PosTyp,private,StN_PosMod,Private Road
+StN_PosTyp,private road,StN_PosMod,Private Road
+StN_PosTyp,bus,StN_PosMod,Business
+StN_PosTyp,business,StN_PosMod,Business
+StN_PosTyp,access road,StN_PosMod,Access Road
+StN_PosTyp,avenue extension,StN_PosMod,Extension
+StN_PosTyp,boulevard extension,StN_PosMod,Extension
+StN_PosTyp,drive extension,StN_PosMod,Extension
+StN_PosTyp,road extension,StN_PosMod,Extension
+StN_PosTyp,st extension,StN_PosMod,Extension
+StN_PosTyp,frontage,StN_PosMod,Frontage Road
+StN_PosTyp,frontage road,StN_PosMod,Frontage Road

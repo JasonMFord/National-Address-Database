@@ -1,0 +1,11 @@
+SourceAttribute,SourceValue,DestinationAttribute,DestinationValue
+StN_PreDir,,PostMod,FME_NULL_VALUE
+StN_PreDir,FME_NULL_VALUE,PostMod,FME_NULL_VALUE
+StN_PreDir,eb,PostMod,eastbound
+StN_PreDir,eastbound,PostMod,eastbound
+StN_PreDir,nb,PostMod,northbound
+StN_PreDir,northbound,PostMod,northbound
+StN_PreDir,sb,PostMod,southbound
+StN_PreDir,southbound,PostMod,southbound
+StN_PreDir,wb,PostMod,westbound
+StN_PreDir,westbound,PostMod,westbound
